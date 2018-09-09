@@ -1,0 +1,17 @@
+.pic{
+	position: absolute;
+}
+
+.point{
+	position: absolute;
+	top: 580px;
+	left: 1400px;
+}
+
+#pp{
+	cursor: pointer;
+}
+
+#pp:hover{
+	opacity: 0.5;
+}
